@@ -1,0 +1,27 @@
+body {
+  font-family: Source Sans Pro;
+  border: 15px solid #bdc3c7;
+  margin: 15px auto;
+  padding: 15px;
+  width: 700px
+}
+
+hr {
+  color: #3498db;
+}
+
+.blockQuote {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+.date {
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+h2 {
+  color: #2c3e50;
+
+}
